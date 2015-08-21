@@ -1,0 +1,3 @@
+= My title
+
+This is my new post that I am writing, using hubpress. Hubpress is a blogging service on top of GitHub pages. So far, it seems really cool! :) I wonder how customizable the themes are...
